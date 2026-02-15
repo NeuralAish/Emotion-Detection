@@ -38,9 +38,9 @@ Run real-time emotion detection directly:   python realtime_emotion.py
 2. Place it in the following structure:
 
 
-├── images/
-│   ├── train/
-│   └── validation/
+├── images/'''
+│   ├── train/'''
+│   └── validation/'''
 
 
 4. Train the model:
