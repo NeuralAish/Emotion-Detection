@@ -19,4 +19,4 @@ It detects human emotions live and displays them on the video feed.
 - 🧪 Option to train your own model
 
 ## 📊 Dataset Information
-- **Source:** 
+- **Source:** https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset
