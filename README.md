@@ -14,9 +14,6 @@ It detects human emotions live and displays them on the video feed.
   - Neutral  
   - Sad  
   - Surprise  
-- 🖼️ Face detection using OpenCV Haar Cascade  
-- ⚡ Pre-trained model included for instant use  
-- 🧪 Option to train your own model
 
 ## 📊 Dataset Information
 
