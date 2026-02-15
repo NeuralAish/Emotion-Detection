@@ -36,11 +36,10 @@ Run real-time emotion detection directly:   python realtime_emotion.py
 #### 🧪 Option 2: Train the Model Yourself
 1. Download the dataset from Kaggle  
 2. Place it in the following structure:
-images/
+ images/
+ ├── train/
+ └── validation/
 
-├── train/
-
-└── validation/
 
 4. Train the model:
 python train_emotion_model.py
