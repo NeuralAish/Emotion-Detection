@@ -18,7 +18,6 @@ It detects human emotions live and displays them on the video feed.
 ## 📊 Dataset Information
 
 
-
 - **Source:** Kaggle – Facial Expression Recognition Dataset  
 - **Classes:** Angry, Disgust, Fear, Happy, Neutral, Sad, Surprise  
 - **Input Format:** 48×48 grayscale images  
