@@ -44,7 +44,8 @@ images/
 
 
 
-
+4. Train the model:
+python train_emotion_model.py
 
 ⚠️ Using the `.h5` model is **optional** and provided only for convenience.
 
